@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – SK텔레콤 오픈소스 공개 절차</title><link>/en/guide/release/process/</link><description>Recent content in SK텔레콤 오픈소스 공개 절차 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/en/guide/release/process/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 프로젝트 이름 결정</title><link>/en/guide/release/process/name/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/release/process/name/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – SK텔레콤 오픈소스 공개 절차</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/</link><description>Recent content in SK텔레콤 오픈소스 공개 절차 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 프로젝트 이름 결정</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/name/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/name/</guid><description>
 &lt;p>듣기 좋고 외우기 쉬우며, 어떤 프로젝트인지 나타낼 수 있는 이름으로 짓는게 좋다. 문제가 될 소지가 있는 이름은 피해야 한다.&lt;/p>
 &lt;h2 id="기억하기-쉬운-이름을-선택하라">기억하기 쉬운 이름을 선택하라.&lt;/h2>
 &lt;p>기억하기 쉽고, 프로젝트가 무엇을 하는지에 대해 알릴 수 있는 이름으로 선택하라. 예를 들면 다음과 같다.&lt;/p>
@@ -20,7 +20,7 @@
 &lt;div class="alert alert-warning" role="alert">
 &lt;h4 class="alert-heading">T-legalnet&lt;/h4>
 상표권에 대해 보다 자세한 확인이 필요할 경우, &lt;a href="http://t-legalnet.sktelecom.com">T-legalnet&lt;/a>을 통해 IPR팀의 검토를 받아라.
-&lt;/div></description></item><item><title>Guide: 파일 내 저작권 및 라이선스 표시</title><link>/en/guide/release/process/copyright/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/release/process/copyright/</guid><description>
+&lt;/div></description></item><item><title>Guide: 파일 내 저작권 및 라이선스 표시</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/copyright/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/copyright/</guid><description>
 &lt;p>저작권은 (&lt;a href="https://en.wikipedia.org/wiki/Berne_Convention">베른 협약&lt;/a> 이후) 저작자가 저작물 만들 때 자동으로 생성된다. 모든 저작물은 저작권에 의해 보호되며, 저작권 보유자에게 저작물에 대한 독점적인 권한이 부여된다. 따라서 우리의 저작물(소스 코드, 텍스트, 이미지, 기타 미디어 등)을 다른 사용자가 사용할 수 있게 하려면 그들에게 라이선스를 부여해야 한다. 라이선스의 사전적 정의는 &amp;ldquo;특정 권리를 실행하기 위해 자격이 있는 기관으로부터 받은 허가&amp;quot;이며, 이러한 허가 없이 특정 권리를 실행하는 것은 저작권 침해와 같은 불법 행위가 된다.&lt;/p>
 &lt;p>저작권 표시가 법에 따라 요구되는 것은 아니지만, (1) 대부분의 오픈소스 라이선스가 저작권 표시를 요구하고, (2) 사용자가 법적 또는 기술적인 이유로 저작권자에게 연락하기를 원할 수 있다는 점을 고려하여 소스 코드 파일에 저작권 표시를 포함하는 것은 의미가 있다.&lt;/p>
 &lt;p>SK텔레콤에서 작성하여 오픈소스로 공개하는 모든 소스 코드 파일에는 다음과 같은 방법으로 저작권 표시 및 라이선스를 고지하라.&lt;/p>

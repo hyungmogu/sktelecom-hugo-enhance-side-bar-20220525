@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 오픈소스 공개하기</title><link>/en/guide/release/</link><description>Recent content in 오픈소스 공개하기 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/en/guide/release/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 공개의 혜택</title><link>/en/guide/release/benefit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/release/benefit/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 오픈소스 공개하기</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/</link><description>Recent content in 오픈소스 공개하기 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 공개의 혜택</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/benefit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/benefit/</guid><description>
 &lt;p>기업이 소프트웨어를 오픈소스로 공개하는 데에는 다음과 같은 목적을 위해서이다.&lt;/p>
 &lt;h2 id="경제적으로-이득이-될-수-있다">경제적으로 이득이 될 수 있다.&lt;/h2>
 &lt;p>오픈소스는 자선 행위가 아니다. 기업이 자신의 소프트웨어를 오픈소스로 공개하거나 오픈소스에 기여할 때는 보다 높은 투자수익을 기대하기 때문이다.&lt;/p>
@@ -18,7 +18,7 @@
 &lt;h2 id="우수한-개발자를-채용할-수-있다">우수한 개발자를 채용할 수 있다&lt;/h2>
 &lt;p>‌채용이 오픈소스의 주요 목적은 아니다. 그러나 기업이 내부에서 널리 사용되는 소프트웨어를 오픈소스로 공개할 때 주로 나타나는 효과 중 하나이다.‌&lt;/p>
 &lt;p>예를 들어, 구글의 내부 빌드 시스템인 Bazel을 오픈소스로 공개하면서 이를 외부 개발자도 사용하게 되었다. 이렇게 도구가 오픈소스가 되면서 외부 인원들도 이 도구에 익숙해지고, 기업은 이미 이 도구를 잘 알고 있는 외부 기여자 중에서 채용할 인력을 선택할 수 있다는 장점이 생깁니다. 이러한 인력은 이미 기술, 커뮤니티 구축, 지원 등에 익숙하기 때문에 실무에 투입하기 위한 교육 프로세스가 훨씬 간소화될 수 있다.&lt;/p>
-&lt;p>기업은 이러한 오픈소스 활동으로 커뮤니티에서 명성이 높아지고, 오픈소스 개발자에게는 매력적인 일터로 비치게 되면서 인재를 확보할 수 있다.&lt;/p></description></item><item><title>Guide: SK텔레콤 오픈소스 공개 Rule</title><link>/en/guide/release/rule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/release/rule/</guid><description>
+&lt;p>기업은 이러한 오픈소스 활동으로 커뮤니티에서 명성이 높아지고, 오픈소스 개발자에게는 매력적인 일터로 비치게 되면서 인재를 확보할 수 있다.&lt;/p></description></item><item><title>Guide: SK텔레콤 오픈소스 공개 Rule</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/rule/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/rule/</guid><description>
 &lt;p>SK텔레콤은 오픈소스 커뮤니티와의 협업의 가치를 존중하고, 이를 내부 소프트웨어를 오픈소스 프로젝트로의 공개를 장려한다. 하지만, SK텔레콤의 지식재산 보호와 의도치 않은 저작권 침해를 방지하기 위해 준수해야 할 몇가지 규칙이 있다.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="#%EC%8A%B9%EC%9D%B8%EC%9D%84-%EB%B0%9B%EC%95%84%EB%9D%BC">승인을 받아라&lt;/a>&lt;/li>
@@ -62,7 +62,7 @@
 &lt;p>충분한 리소스가 지원되는 환경을 조성할 수 없다면, 오픈소스로 공개하지 않는 것이 좋다.&lt;/p>
 &lt;h2 id="회사-이메일을-사용하라">회사 이메일을 사용하라&lt;/h2>
 &lt;p>오픈소스 공개 활동 시 개인 이메일을 사용하지 말고, SK텔레콤 이메일을 사용하라. 이를 통해 (1) 구성원은 회사를 대표하여 커뮤니티와 커뮤니케이션한다는 책임감을 갖게 되고, (2) SK텔레콤이 오픈소스 커뮤니티에 공개 활동을 활발히 하는 기업으로 인지도를 개선할 수 있다.&lt;/p>
-&lt;p>GitHub에서 이메일 설정하는 방법은 다음 &lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address">Link&lt;/a>를 참고한다.&lt;/p></description></item><item><title>Guide: SK텔레콤 오픈소스 공개 절차</title><link>/en/guide/release/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/release/process/</guid><description>
+&lt;p>GitHub에서 이메일 설정하는 방법은 다음 &lt;a href="https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address">Link&lt;/a>를 참고한다.&lt;/p></description></item><item><title>Guide: SK텔레콤 오픈소스 공개 절차</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/release/process/</guid><description>
 &lt;p>&lt;img src="./release-process.png" alt="release-process">&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="#1-%EC%86%8C%EC%86%8D-%EC%A1%B0%EC%A7%81-%EB%82%B4%EB%B6%80-%EC%8A%B9%EC%9D%B8">1. 소속 조직 내부 승인&lt;/a>&lt;/li>
@@ -120,7 +120,7 @@
 &lt;h4 id="프로젝트-이름-결정">프로젝트 이름 결정&lt;/h4>
 &lt;p>듣기 좋고 외우기 쉬우며, 어떤 프로젝트인지 나타낼 수 있는 이름으로 짓는게 좋다. 문제가 될 소지가 있는 이름은 피해야 한다. 자세한 사항은 다음 페이지를 참고한다.&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="/guide/release/process/name">오픈소스 프로젝트 이름 결정&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/sktelecom-hugo-enhance-side-bar-20220525/guide/release/process/name">오픈소스 프로젝트 이름 결정&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="라이선스-결정">라이선스 결정&lt;/h4>
 &lt;p>소프트웨어를 오픈소스로 공개하기 위해서는 라이선스를 부여해야 한다. 그래야 다른 사람들도 소프트웨어를 사용, 복사, 수정 및 배포할 수 있다. 또한, 라이선스는 법적인 문제로부터 기여자를 보호한다. 따라서, 오픈소스 프로젝트를 시작할 때 적절한 오픈소스 라이선스를 선택하고 이를 프로젝트에 적용해야 한다.‌&lt;/p>
@@ -174,7 +174,7 @@
 &lt;/code>&lt;/pre>&lt;h4 id="파일-내-저작권-및-라이선스-표시">파일 내 저작권 및 라이선스 표시&lt;/h4>
 &lt;p>‌소스 코드를 포함하는 모든 파일은 저작권 및 라이선스 표기를 포함하라. 이는 몇몇 파일만 복사해서 사용하려는 사용자들도 라이선스 의무를 준수하는데 도움이 된다. 자세한 내용은 다음 페이지를 참고하라.&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="/guide/release/process/copyright">저작권 및 라이선스 표시&lt;/a>&lt;/li>
+&lt;li>&lt;a href="/sktelecom-hugo-enhance-side-bar-20220525/guide/release/process/copyright">저작권 및 라이선스 표시&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h4 id="불필요한-주석-제거">불필요한 주석 제거&lt;/h4>
 &lt;p>공개하려는 코드에 회사의 영업 비밀이나 문제를 일으킬만한 불필요한 주석이 포함되지 않도록 확인하라.‌&lt;/p>
@@ -254,7 +254,7 @@
 &lt;h4 id="멤버십">멤버십&lt;/h4>
 &lt;p>오픈소스 프로젝트는 여러 지역의 다양한 인원이 모여서 협업을 수행한다. 효과적인 협업을 위해서는 참여 인원의 명확한 역할 구분이 필요하다. 이를 위해 어떤 멤버십을 구성할지 결정하라. &lt;/p>
 &lt;ul>
-&lt;li>일반적인 오픈소스 프로젝트의 멤버십은 다음 페이지를 참고하라. : &lt;a href="/guide/contribute/background/membership">오픈소스 프로젝트 멤버십&lt;/a>&lt;/li>
+&lt;li>일반적인 오픈소스 프로젝트의 멤버십은 다음 페이지를 참고하라. : &lt;a href="/sktelecom-hugo-enhance-side-bar-20220525/guide/contribute/background/membership">오픈소스 프로젝트 멤버십&lt;/a>&lt;/li>
 &lt;li>또한, 멤버십의 한 예로 &lt;a href="https://github.com/openinfradev/community/blob/main/governance/membership.md">HANU 오픈소스 프로젝트의 멤버십&lt;/a>을 참고할 수 있다.&lt;/li>
 &lt;/ul>
 &lt;h4 id="code-of-conduct">CODE OF CONDUCT&lt;/h4>

@@ -1,5 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – Open Source at SK telecom</title><link>/</link><description>Recent content in Open Source at SK telecom on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 이너소스 도입을 위한 과제와 효과</title><link>/blog/2022/20220403_innersource/</link><pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate><guid>/blog/2022/20220403_innersource/</guid><description>
-&lt;img src="/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – Open Source at SK telecom</title><link>/sktelecom-hugo-enhance-side-bar-20220525/</link><description>Recent content in Open Source at SK telecom on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/sktelecom-hugo-enhance-side-bar-20220525/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: 이너소스 도입을 위한 과제와 효과</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220403_innersource/</link><pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220403_innersource/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220403_innersource/featured_innersource_hu7b241fcb77f1a51b14fea6a11068a61a_314689_640x0_resize_catmullrom_3.png" width="640" height="415"/>
 &lt;p>안녕하세요, 장학성입니다.&lt;/p>
 &lt;p>이너소스(Inner Source)는 오픈소스 개발방법론을 사내에 도입하여 조직간 공유와 협업을 극대화하고, 빠른 개발 속도와 투명한 커뮤니케이션, 코드 품질 향상 등의 효과를 기대하기 위한 방법입니다.&lt;/p>
 &lt;p>이너소스를 위한 방법은 여러 문서에서 설명하고 있는데요, 오늘은 다음 자료에서 언급하고 있는 이너소스를 시작하는 방법과 기대효과에 대해 간략히 정리하였으니 참고하시기 바랍니다.&lt;/p>
@@ -99,8 +99,8 @@
 &lt;li>Trusted Committer와 Contributor 간의 communication을 지켜보고 있는 것 자체가 도움이 됩니다.&lt;/li>
 &lt;/ol>
 &lt;p>개발자가 오픈소스에 기여해야 하는 이유에 대해서는 다음 블로그에서도 언급하고 있으니 참고하시기 바랍니다. : &amp;ldquo;&lt;a href="https://devocean.sk.com/opensource/techBoardDetail.do?ID=159274">개발자가 오픈소스에 기여해야 하는 이유&lt;/a>&amp;rdquo;&lt;/p>
-&lt;p>감사합니다.&lt;/p></description></item><item><title>Blog: 상용 AI 서비스에 공개 Dataset을 사용해도 되나요?</title><link>/blog/2022/20220214_ai_dataset_copyright/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>/blog/2022/20220214_ai_dataset_copyright/</guid><description>
-&lt;img src="/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>
+&lt;p>감사합니다.&lt;/p></description></item><item><title>Blog: 상용 AI 서비스에 공개 Dataset을 사용해도 되나요?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220214_ai_dataset_copyright/</link><pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220214_ai_dataset_copyright/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2022/20220214_ai_dataset_copyright/featured_procedure_hudaab2914c5c3dd86326cd7f91192134e_257378_640x0_resize_catmullrom_3.png" width="640" height="1324"/>
 &lt;p>안녕하세요, 장학성입니다.&lt;/p>
 &lt;p>AI는 사용하지 않는 기업이 없을 정도로 현대 비즈니스에 중요한 기술이 되었습니다. AI 서비스를 만들기 위해서는 많은 양의 data가 필요한데요, 공개 Dataset&lt;sub>publicly available datasets&lt;/sub>도 널리 사용되고 있습니다. 다만 공개 Dataset이라고 하더라도 저작권이 있기 때문에 이를 상용 AI 서비스에 사용하려면 저작권 침해 등 법적 리스크를 최소화하기 위해 라이선스 측면의 확인이 필요합니다.&lt;/p>
 &lt;p>오늘은 이와 관련하여 최근 발표된 논문인 &lt;b>Can I use this publicly available dataset to build commercial AI software?&amp;ndash; A Case Study on Publicly Available Image Datasets&lt;/b>을 소개하려고 합니다. : &lt;a href="https://arxiv.org/abs/2111.02374">https://arxiv.org/abs/2111.02374&lt;/a>&lt;/p>
@@ -453,7 +453,7 @@
 &lt;/ul>
 &lt;p>다만, 아직 이에 대한 명확한 판례가 없기 때문에 리스크가 전혀 없다고 할 수는 없습니다. (아참, 저는 법률가가 아니기 때문에 이 내용은 법적인 효력이 전혀 없음을 알려 드립니다. ^^)&lt;/p>
 &lt;p>유럽, 일본, 미국 등 해외에서는 AI 학습을 위한 빅데이터 이용을 허용하기 위해 법 개정이 되었으며, 우리나라도 이를 위한 저작권법 개정안이 국회에 상정된 것으로 알고 있습니다. 국내 기업들이 공개 Dataset을 보다 수월하게 사용하여 AI 기술 혁신에 박차를 가할 수 있도록 정부에서도 필요한 법안을 신속히 처리해주면 좋겠습니다.&lt;/p>
-&lt;p>감사합니다.&lt;/p></description></item><item><title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title><link>/blog/2021/20211220-saas_compliance/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20211220-saas_compliance/</guid><description>
+&lt;p>감사합니다.&lt;/p></description></item><item><title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211220-saas_compliance/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211220-saas_compliance/</guid><description>
 &lt;p>대부분의 오픈소스 라이선스는 오픈소스를 실행시키는 것에는 아무 제한을 두지 않으며, 오픈소스를 재배포할 때 소스 코드 공개, 고지 등의 의무 준수를 요구합니다. 여기서 배포라고 하면, 소프트웨어를 탑재한 임베디드 디바이스의 판매, 앱 마켓을 통한 모바일 앱의 배포 등 일반적으로 소프트웨어의 물리적인 전달을 의미합니다.&lt;/p>
 &lt;p>SaaS 서비스 제공 업체는 서비스를 위해 소프트웨어를 배포하지 않기 때문에 오픈소스를 사용하더라도 라이선스 의무에서 비교적 자유로울 수 있습니다. 하지만, AGPL 등 네트워크를 통한 서비스 제공 시에도 라이선스 의무를 준수하는 오픈소스 라이선스도 있기 때문에 이에 대해서는 주의가 필요합니다.&lt;/p>
 &lt;p>미국의 저명한 오픈소스 전문 변호사인 Heather Meeker는 &lt;a href="https://heathermeeker.com/2021/11/23/open-source-compliance-for-saas-vendors/">Open Source Compliance for SaaS Vendors&lt;/a>라는 글을 게재하여 SaaS 공급업체가 주의해야 할 Open Source Compliance에 대해 설명하였는데요, 오늘은 이 내용을 소개하겠습니다.&lt;/p>
@@ -560,8 +560,8 @@ The source code for a work means the preferred form of the work for making modif
 &lt;p>과거에는 기업의 오픈소스 컴플라이언스 정책에서 외부로 배포하지 않고 내부 서버에만 사용하는 오픈소스인 경우에는 오픈소스 점검 대상에서 아예 제외시키기도 하였습니다. 하지만, (1) AGPL과 같은 네트워크 Copyleft 조항이 있는 오픈소스 라이선스나 (2) 오픈소스였다가 상용 소프트웨어러 라이선스 정책을 변경하는 추세를 고려하면 Server-side의 소프트웨어에 대해서도 라이선스 컴플라이언스 측면의 관리 체계가 필요해지고 있습니다. 기업은 이를 위한 정책, 절차를 개선하고, Server-side 소프트웨어에 대한 Bill of Materials를 자동으로 생성할 수 있는 도구를 도입해야 할 것입니다.&lt;/p>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This paper was translated by Haksung Jang from the English version available at this &lt;a href="https://heathermeeker.com/2021/11/23/open-source-compliance-for-saas-vendors/">white paper&lt;/a>. The original author, &lt;a href="https://heathermeeker.com/about-me/">Heather Meeker&lt;/a>, has not reviewed this translation.&lt;/p>
-&lt;/div></description></item><item><title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title><link>/blog/2021/20211115-virtualapp_gpl/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20211115-virtualapp_gpl/</guid><description>
-&lt;img src="/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>
+&lt;/div></description></item><item><title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>
 &lt;blockquote>
 &lt;p>&lt;i>안녕하세요, 장학성입니다.&lt;/p>
 &lt;p>지난 2021년 9월, 중국내 최초의 GPL 관련 판결이 있었다는 &lt;a href="https://www.oschina.net/news/159435">중국 기사&lt;/a>를 통해 공개되었습니다. 번역기를 활용해 이해한 내용을 정리해보았습니다.&lt;br>
@@ -601,7 +601,7 @@ The source code for a work means the preferred form of the work for making modif
 &lt;h2 id="분쟁-대상-소프트웨어">분쟁 대상 소프트웨어&lt;/h2>
 &lt;h3 id="1-virtualapp-원고-측-소프트웨어">1. VirtualApp (원고 측 소프트웨어)&lt;/h3>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 210px">
-&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png" width="200" height="103">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png" width="200" height="103">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -613,7 +613,7 @@ The source code for a work means the preferred form of the work for making modif
 &lt;li>GitHub : &lt;a href="https://github.com/asLody/VirtualApp">https://github.com/asLody/VirtualApp&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png" width="600" height="532">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png" width="600" height="532">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 http://www.downcc.com/soft/359746.html
@@ -656,7 +656,7 @@ VirtualApp의 코드를 상업적 이익, 내부 사용을 위해 자신의 코�
 &lt;h3 id="2-dim-sum-desktop-피고-측-소프트웨어">2. Dim Sum Desktop (피고 측 소프트웨어)&lt;/h3>
 &lt;p>Dim Sum Desktop은 VirtualApp과 마찬가지로 가상 안드로이드 환경을 제공하는 소프트웨어이며, 피고 Fujian Fengling Chuangjing Technology Co., Ltd.가 개발하였습니다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png" width="600" height="488">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png" width="600" height="488">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 http://www.appchina.com/app/com.dianxinos.dxhome
@@ -787,20 +787,20 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;p>50만 위안은 &lt;a href="https://www.copyright.or.kr/kcc/koreacopyright/info/download.do?brdctsno=44122&amp;amp;brdctsfileno=15650">저작권 침해 법정손해배상액의 최고액 수준&lt;/a>이라고 합니다.&lt;/p>
 &lt;h2 id="마무리">마무리&lt;/h2>
 &lt;p>그동안 중국은 저작권법 위반에 관대하다는 인식이 많았는데, 영문을 기반으로 한 오픈소스 라이선스의 법적 효력을 인정하고, 라이선스 위반을 저작권 침해로 판결한 점이 인상적이었습니다. 기업은 오픈소스 라이선스 의무를 준수하기 위한 정책과 프로세스를 갖추어야 이러한 분쟁에 휘말리는 위험을 최소화 할 수 있을 것입니다.&lt;/p>
-&lt;p>피고는 사건을 대법원에 상고한 것으로 알려졌습니다. 피고가 항소심에서 어떤 주장을 펴나갈지 궁금합니다. :)&lt;/p></description></item><item><title>Blog: SKT, 오픈소스 컴플라이언스 분야 ISO 국제인증 획득</title><link>/blog/news/20210909-sktiso/</link><pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate><guid>/blog/news/20210909-sktiso/</guid><description>
-&lt;img src="/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_640x0_resize_q75_catmullrom.jpeg" width="640" height="414"/>
+&lt;p>피고는 사건을 대법원에 상고한 것으로 알려졌습니다. 피고가 항소심에서 어떤 주장을 펴나갈지 궁금합니다. :)&lt;/p></description></item><item><title>Blog: SKT, 오픈소스 컴플라이언스 분야 ISO 국제인증 획득</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210909-sktiso/</link><pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210909-sktiso/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_640x0_resize_q75_catmullrom.jpeg" width="640" height="414"/>
 &lt;p>SK텔레콤이 ‘오픈소스’ 활용을 위한 체계적 관리(컴플라이언스) 시스템을 갖췄음을 국제적으로 인정받았다.&lt;/p>
 &lt;p>SK텔레콤(대표이사 박정호, &lt;a href="https://www.sktelecom.com">www.sktelecom.com&lt;/a>)은 국제표준화기구(ISO, Interna-tional Organization for Standardization)로부터 오픈소스 컴플라이언스 관련 표준인증(ISO/IEC 5230)을 획득했다고 9일 밝혔다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 910px">
-&lt;img class="card-img-top" src="/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_900x600_fit_q75_catmullrom.jpeg" width="900" height="582">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210909-sktiso/featured-SKTiso_hu065adfe0227da2c1679217693f1d110a_422461_900x600_fit_q75_catmullrom.jpeg" width="900" height="582">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;small class="text-muted">&lt;br/>SK텔레콤&lt;/small>&lt;/p>
 &lt;/div>
 &lt;/div>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18">https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18&lt;/a>&lt;/p></description></item><item><title>Blog: GPLv2도 설치정보를 요구한다고?</title><link>/blog/2021/20210728-gplv2installationinformation/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210728-gplv2installationinformation/</guid><description>
-&lt;img src="/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18">https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18&lt;/a>&lt;/p></description></item><item><title>Blog: GPLv2도 설치정보를 요구한다고?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>
 &lt;blockquote>
 &lt;p>&lt;i>안녕하세요.&lt;/p>
 &lt;p>미국의 저명한 오픈소스 라이선스 전문 변호사인 P. McCoy Smith는 최근 &lt;a href="https://jolts.world/">JOLTS&lt;/a>&lt;sub>Journal of Open Law, Technology &amp;amp; Society&lt;/sub>에 &lt;a href="https://jolts.world/index.php/jolts/article/view/149">GPLv2가 &amp;lsquo;설치정보&amp;rsquo;를 요구하는가&lt;/a>를 주제로 글을 게재하였습니다.&lt;/p>
@@ -825,7 +825,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;p>그럼에도 불구하고 2005년, FSF는 GPLv2를 출시할 당시 고려하지 못한&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> 법률적&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> 그리고 기술적&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup> 문제를 해결하기 위해 라이선스 변경의 필요성을 인식하였다. 이에 따라 FSF는 2006년&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>부터 2007년까지 GPL의 신규 버전을 만들기 위해 대규모의 협업과 다국적 노력을 시작하였으며, 2007년 6월 29일 GPLv3를 공개하였다&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>.&lt;/p>
 &lt;!-- ![gplv3](./featured_gplv3.png) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png" width="300" height="149">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png" width="300" height="149">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -841,7 +841,7 @@ continued functioning of the modified object code is in no case prevented or int
 solely because modification has been made.”
 &lt;/code>&lt;/pre>&lt;!-- ![installationinformation](./installationinformation.jpg) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg" width="600" height="493">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg" width="600" height="493">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -853,7 +853,7 @@ solely because modification has been made.”
 &lt;p>2006년경 GPL의 새로운 버전인 GPLv3가 제안되었을 무렵, FSF는 &amp;lsquo;software freedom&amp;rsquo; 개념을 잠재적으로 훼손할 수 있는 관행에 대한 우려를 나타냈었다. FSF는 이 관행을 &amp;lsquo;Tivoization&lt;sup id="fnref:14">&lt;a href="#fn:14" class="footnote-ref" role="doc-noteref">14&lt;/a>&lt;/sup>&amp;lsquo;이라고 명명하였으며, 당시 FSF는 DVR&lt;sub>digital video recorder&lt;/sub> 회사인 TiVo가 사용자의 자유를 침해한다고 보았다.&lt;/p>
 &lt;!-- ![tivo](./tivo.jpeg) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 460px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg" width="450" height="392">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg" width="450" height="392">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://blog.codinghorror.com/tivoization-and-the-gpl/
@@ -866,7 +866,7 @@ https://blog.codinghorror.com/tivoization-and-the-gpl/
 &lt;p>      &lt;i>“A &lt;b>tyrant&lt;/b> is a malicious device that refuses to allow users to install a different operating system or a modified operating system. These devices have measures to block execution of anything other than the ‘approved’ system versions.”&lt;/i>&lt;sup id="fnref:17">&lt;a href="#fn:17" class="footnote-ref" role="doc-noteref">17&lt;/a>&lt;/sup>&lt;/p>
 &lt;/blockquote>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg" width="300" height="333">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg" width="300" height="333">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
@@ -882,7 +882,7 @@ https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
 &lt;/blockquote>
 &lt;p>이러한 차이(&amp;lsquo;Tivoization&amp;rsquo;을 금지하는 GPLv3와 허용하는 GPLv2간의 차이)는 Linux Kernel의 저작자인 Linus Torvalds가 GPLv3으로 라이선스를 변경하지 않고 &amp;lsquo;GPLv2 only&amp;rsquo;로 유지하게 된 결정적인 이유였다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 460px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg" width="450" height="338">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg" width="450" height="338">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://www.youtube.com/watch?v=bV3cKq26nKQ
@@ -948,7 +948,7 @@ contains, plus any associated interface definition files, plus the scripts used 
 compilation and installation of the executable.”
 &lt;/code>&lt;/pre>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg" width="600" height="422">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg" width="600" height="422">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -975,7 +975,7 @@ a User Product ... the Corresponding Source conveyed under this section must be 
 Installation Information.”
 &lt;/code>&lt;/pre>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg" width="600" height="591">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg" width="600" height="591">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -1172,12 +1172,12 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 &lt;p>See above nn. 17 and 22-23.&amp;#160;&lt;a href="#fnref:51" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: SK텔레콤, 개발자와 소통하는 커뮤니티 ‘DEVOCEAN’ 론칭</title><link>/blog/news/20210614-devocean/</link><pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate><guid>/blog/news/20210614-devocean/</guid><description>
-&lt;img src="/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_640x0_resize_q75_catmullrom.jpeg" width="640" height="398"/>
+&lt;/div></description></item><item><title>Blog: SK텔레콤, 개발자와 소통하는 커뮤니티 ‘DEVOCEAN’ 론칭</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210614-devocean/</link><pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210614-devocean/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_640x0_resize_q75_catmullrom.jpeg" width="640" height="398"/>
 &lt;p>SK텔레콤이 스타트업·대학 등 외부 개발자들과 소통하는 오픈 커뮤니티를 론칭하며 SK의 ICT 역량을 적극 공유에 나선다.&lt;/p>
 &lt;p>‘&lt;a href="https://devocean.sk.com/">데보션&lt;/a>’은 개발자들을 위한 영감의 바다(Developer’s Ocean)라는 뜻으로, 개발자들이 지식과 경허을 공유하는 커뮤니티를 ‘바다’에 비유했다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 810px">
-&lt;img class="card-img-top" src="/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_900x600_fit_q75_catmullrom.jpeg" width="800" height="498">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210614-devocean/featured-devocean_hu14eeb2e9bb7ca8a2f7495fccba6aca57_92060_900x600_fit_q75_catmullrom.jpeg" width="800" height="498">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 SK ICT패밀리사 개발전문가들과 외부 개발인재간 소통과 기술 공유를 위한 디벨로퍼 릴레이션 채널인 ‘데보션’을 론칭했다. 사진=SK텔레콤
@@ -1185,8 +1185,8 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 &lt;/div>
 &lt;/div>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18">https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18&lt;/a>&lt;/p></description></item><item><title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title><link>/blog/2021/20210504-dockerfiles/</link><pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210504-dockerfiles/</guid><description>
-&lt;img src="/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18">https://www.fntimes.com/html/view.php?ud=202106140855478693645ffc9771_18&lt;/a>&lt;/p></description></item><item><title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/</link><pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>
 &lt;blockquote>
 &lt;p>안녕하세요!&lt;/p>
 &lt;p>2021년 4월, 독일의 유명한 오픈소스 변호사인 Till Jaeger는 Dockerfile이 생성하는 Docker image내 포함될 오픈소스에 대한 라이선스 컴플라이언스 책임은 누구에게 있는가에 대한 글을 &lt;a href="https://jolts.world/index.php/jolts/article/view/147">발표&lt;/a>하였습니다. Till은 독일법과 유럽 연합 사법 재판소&lt;sub>CJEU&lt;/sub>의 판례를 근거로 Dockerfile 제공자가 라이선스 의무를 준수해야 한다고 설명하였습니다.&lt;/p>
@@ -1219,7 +1219,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 &lt;h3 id="docker-image">Docker image&lt;/h3>
 &lt;p>사전에 구성된 컨테이너는 &amp;ldquo;Docker image&amp;quot;로 배포될 수 있으며, 기본 프로그램 외에 애플리케이션, 프로그램 코드로서의 Dependency, 필요한 경우 유틸리티 및 구성 파일도 포함할 수 있다. Docker image는 개별적으로 배포될 수 있지만 &amp;ldquo;Docker Hub&amp;quot;와 같은 공용 Repository를 통해서도 배포될 수 있다. 이는 C 라이브러리, Package Manager, Shell 및 디렉터리 트리와 같은 필수 시스템 구성 요소를 포함하고 특정 Linux 배포를 참조하는 이른바 &amp;ldquo;Base Image&amp;quot;에도 해당된다. 이 Base image 위에, 추가 기능은 개별 보관 파일로 별도로 배포될 수 있지만 서로 빌드되어 완전한 Docker image를 형성하는 이른바 &amp;ldquo;레이어&amp;quot;로 추가될 수 있다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png" width="768" height="304">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png" width="768" height="304">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>레이어 저장방식 : https://cultivo-hy.github.io/docker/image/usage/2019/03/14/Docker정리/&lt;/i>&lt;/center>
@@ -1229,7 +1229,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 &lt;h3 id="dockerfile">Dockerfile&lt;/h3>
 &lt;p>&amp;ldquo;Dockerfile&amp;quot;은 스크립트와 유사하게 Docker image를 만들기 위한 단계별 명령을 포함하는 텍스트 파일이다. Dockerfile은 일반적으로 Dockerfile 자체에만 적용되는 자체 라이선스를 가질 수 있으며, 이 라이선스는 Docker 컨테이너에 포함되는 프로그램에는 적용되지 않는다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png" width="768" height="441">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png" width="768" height="441">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>Dockerfile : https://www.slideshare.net/vincenzoferme/using-docker-containers-to-improve-reproducibility-in-software-and-web-engineering&lt;/i>&lt;/center>
@@ -1239,7 +1239,7 @@ SK텔레콤은 SK하이닉스, SK㈜C&amp;C, SK브로드밴드, SK플래닛 등 
 &lt;h3 id="docker-엔진">Docker 엔진&lt;/h3>
 &lt;p>Docker 컨테이너용 관리 소프트웨어인 &amp;ldquo;Docker 엔진&amp;quot;은 Dockerfile의 명령을 순차적으로 처리하여 Docker image를 생성한다. 일반적으로, Base image나 개별 레이어를 위한 각 컴포넌트는 내부 또는 외부 저장소에서 다운로드된다. 이는 제공자가 Dockerfile을 제공하더라도 물리적인 프로그램 코드를 전달하지 않는 것이 가능함을 의미하고, 이런 일은 실제로 관례적이다. 고객은 전달받은 Dockerfile을 가지고 자체적으로 공개 저장소로부터 전체 혹은 일부 프로그램 코드를 받아와서 Docker 컨테이너를 구축할 수 있다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg" width="768" height="576">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg" width="768" height="576">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>https://cultivatehq.com/posts/docker/&lt;/i>&lt;/center>
@@ -1399,8 +1399,8 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;p>The definition in section 1 GPL-3.0 reads as follows: ’The “System Libraries’ of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form. A ‘Major Component’, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.”&amp;#160;&lt;a href="#fnref:15" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: OSPO란?</title><link>/blog/2021/20210418-ospo-definition/</link><pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210418-ospo-definition/</guid><description>
-&lt;img src="/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>
+&lt;/div></description></item><item><title>Blog: OSPO란?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/</link><pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This paper was translated by Haksung Jang from the English version available at the &lt;a href="https://github.com/todogroup/ospodefinition.org">OSPO Definition&lt;/a>. The original document is licensed under &lt;a href="https://github.com/todogroup/ospodefinition.org/blob/master/LICENSE">CC-BY-SA-4.0&lt;/a>.&lt;/p>
 &lt;/div>
@@ -1412,7 +1412,7 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;/blockquote>
 &lt;hr>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 328px">
-&lt;img class="card-img-top" src="/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png" width="318" height="159">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png" width="318" height="159">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;small class="text-muted">&lt;br/>Photo: TODO Group&lt;/small>&lt;/p>
@@ -1543,10 +1543,10 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;p>SK텔레콤 OSPO : &lt;a href="https://sktelecom.github.io/about/ospo">https://sktelecom.github.io/about/ospo&lt;/a>&amp;#160;&lt;a href="#fnref:19" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: SRT Alliance Welcomes SKT to the SRT Open Source Video Streaming Project</title><link>/blog/news/20210330-srtalliance/</link><pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/news/20210330-srtalliance/</guid><description>
-&lt;img src="/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_640x0_resize_q75_catmullrom.jpg" width="640" height="360"/>
+&lt;/div></description></item><item><title>Blog: SRT Alliance Welcomes SKT to the SRT Open Source Video Streaming Project</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210330-srtalliance/</link><pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210330-srtalliance/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_640x0_resize_q75_catmullrom.jpg" width="640" height="360"/>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210330-srtalliance/featured-srtalliance_hu6199ebb984ef2b4f6e640f692ae06d0d_22052_600x300_fill_q75_catmullrom_smart1.jpg" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 Image credit: SRT Alliance
@@ -1568,8 +1568,8 @@ Image credit: SRT Alliance
 &lt;hr>
 &lt;blockquote>
 &lt;p>Origin : &lt;a href="https://www.srtalliance.org/sk-telecom-joins-srt-alliance/">https://www.srtalliance.org/sk-telecom-joins-srt-alliance/&lt;/a>&lt;/p>
-&lt;/blockquote></description></item><item><title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title><link>/blog/2021/20210328-elasticlicense/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210328-elasticlicense/</guid><description>
-&lt;img src="/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>
+&lt;/blockquote></description></item><item><title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>
 &lt;blockquote>
 &lt;p>안녕하세요.&lt;/p>
 &lt;p>미국의 오픈소스 전문 변호사인 &lt;a href="https://heathermeeker.com/about-me/">Heather Meeker&lt;/a>가 2021년 3월 11일 공개한 Elastic License에 대한 &lt;a href="https://www.coss.community/coss/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3">White Paper&lt;/a>를 기반으로 아래의 글을 작성하였습니다. 대부분 원글을 번역하는 방식이며, 제 의견은 인용구로 추가하였습니다.&lt;/p>
@@ -1714,10 +1714,10 @@ It describes a software model where software:
 &lt;p>Open source licenses can contain conditions, such as notices or source code sharing. But these are not limitations that tell you what you cannot do with software, they only require that if you elect to do certain things, you also must do others.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: SK텔레콤, 초저지연 영상전송기술 오픈소스 공개</title><link>/blog/news/20210308-hwangsaeul/</link><pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/news/20210308-hwangsaeul/</guid><description>
-&lt;img src="/blog/news/20210308-hwangsaeul/featured-structure_hu987d9e4157edc27f079c66674ea0d98e_27305_640x0_resize_q75_catmullrom.jpeg" width="640" height="413"/>
+&lt;/div></description></item><item><title>Blog: SK텔레콤, 초저지연 영상전송기술 오픈소스 공개</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210308-hwangsaeul/</link><pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210308-hwangsaeul/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210308-hwangsaeul/featured-structure_hu987d9e4157edc27f079c66674ea0d98e_27305_640x0_resize_q75_catmullrom.jpeg" width="640" height="413"/>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/news/20210308-hwangsaeul/20210308121349363500_hu044a3df7b7f2f6ffe8eb07807ebc4f44_61511_600x300_fill_q75_catmullrom_smart1.jpeg" width="600" height="300">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20210308-hwangsaeul/20210308121349363500_hu044a3df7b7f2f6ffe8eb07807ebc4f44_61511_600x300_fill_q75_catmullrom_smart1.jpeg" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 우아한형제들 실외 자율주행 배달로봇 딜리드라이브. [사진=SK텔레콤 제공]
@@ -1727,8 +1727,8 @@ It describes a software model where software:
 &lt;p>SK텔레콤이 배달의민족 자율주행로봇 &amp;lsquo;딜리드라이브&amp;rsquo;에 활용한 5세대(5G) 이동통신용 초저지연 영상전송기술을 공개했다.&lt;/p>
 &lt;p>8일 현재 SK텔레콤은 영상전송기술 &amp;lsquo;황새울(hwangsaeul)&amp;rsquo; 프로젝트 정보와 소스코드를 오픈소스 소프트웨어(SW) 공유 웹사이트 &amp;lsquo;깃허브(GitHub)&amp;lsquo;에서 제공하고 있다. 오픈소스는 SW를 소유한 기업·개발자가 그 코드를 다른 개발자가 쓸 수 있게 공개한 것이다.&lt;/p>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : : &lt;a href="https://www.ajunews.com/view/20210308115656420">https://www.ajunews.com/view/20210308115656420&lt;/a>&lt;/p></description></item><item><title>Blog: The 2nd Page of H8l</title><link>/blog/2021/20210209-2nd-page-of-h8l/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210209-2nd-page-of-h8l/</guid><description>
-&lt;img src="/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : : &lt;a href="https://www.ajunews.com/view/20210308115656420">https://www.ajunews.com/view/20210308115656420&lt;/a>&lt;/p></description></item><item><title>Blog: The 2nd Page of H8l</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>
 &lt;h1 id="the-2nd-page-of-hwangsaeul-project">The 2nd page of Hwangsaeul project&lt;/h1>
 &lt;p>It&amp;rsquo;s been almost a year and half since Jakub posted the &lt;a href="https://www.collabora.com/news-and-blog/news-and-events/low-latency-streaming-of-security-feeds-with-srt-and-gstreamer.html">installation document&lt;/a> of Hwangsaeul (a.k.a H8L) project. The project members are still rush to develop the project for the various use cases. Although the H8L project is originally designed to support the massive deployment of video surveillance cameras which enable SRT transmission, we found that there is much more potential when we switch the domain to UAV(Unmanned Areial Viehicle) and UGV(Unmanned Ground Vehicle). Therefore, we had to change the overall shape of H8L to optimize for the new targets.&lt;/p>
 &lt;h2 id="deprecation-of-messages-queue">Deprecation of Messages Queue&lt;/h2>
@@ -1845,10 +1845,10 @@ queue ! decodebin ! autovideosink
 &lt;li>&lt;a href="https://www.collabora.com/news-and-blog/news-and-events/low-latency-streaming-of-security-feeds-with-srt-and-gstreamer.html">Low latency streaming of security video feeds with SRT and GStreamer&lt;/a> - The first implementation of H8L&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>This article is originally posted in &lt;a href="https://groou.com/2021/02/08/h8l-2nd/">Justin&amp;rsquo;s blog&lt;/a>&lt;/p></description></item><item><title>Blog: SK텔레콤, 요약 잘하는 AI모델 공개…'자연어이해' 기술 강화</title><link>/blog/news/20201210-summaryai/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>/blog/news/20201210-summaryai/</guid><description>
-&lt;img src="/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_640x0_resize_q75_catmullrom.jpeg" width="640" height="334"/>
+&lt;p>This article is originally posted in &lt;a href="https://groou.com/2021/02/08/h8l-2nd/">Justin&amp;rsquo;s blog&lt;/a>&lt;/p></description></item><item><title>Blog: SK텔레콤, 요약 잘하는 AI모델 공개…'자연어이해' 기술 강화</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201210-summaryai/</link><pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201210-summaryai/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_640x0_resize_q75_catmullrom.jpeg" width="640" height="334"/>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 650px">
-&lt;img class="card-img-top" src="/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_900x600_fit_q75_catmullrom.jpeg" width="640" height="334">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201210-summaryai/featured-kobart_hu4cb652d96ac68403c5eba4d6e583a0d7_27098_900x600_fit_q75_catmullrom.jpeg" width="640" height="334">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 [사진=게티이미지뱅크]
@@ -1858,10 +1858,10 @@ queue ! decodebin ! autovideosink
 &lt;p>SK텔레콤 연구진들이 한국어 뉴스나 문서를 읽고 고품질 요약문을 만들어내는 능력이 뛰어난 인공지능(AI) 언어처리 모델을 조용히 공개했다. 이로써 SK텔레콤은 자연어처리(NLP) 분야 가운데 문장이나 글이 전달하는 의미를 짚는 &amp;lsquo;자연어이해(NLU·Natural Language Understanding)&amp;rsquo; 영역 기술력을 강화할 수 있게 됐다.&lt;/p>
 &lt;p>10일 현재 SK텔레콤 테크(T3K) 센터가 운영하는 깃허브(GitHub) 저장소에는 &amp;lsquo;코바트(KoBART)&amp;lsquo;라는 개발 프로젝트의 소스코드가 공개돼 있다. 이는 작년 10월 공개된 &amp;lsquo;코버트(KoBERT)&amp;lsquo;와 올해 2월 공개된 &amp;lsquo;한국어 GPT-2(KoGPT2)&amp;lsquo;에 이어, SK텔레콤 연구진이 만들어 공개한 세 번째 AI 언어처리 모델이다.&lt;/p>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.ajunews.com/view/20201210114639936">https://www.ajunews.com/view/20201210114639936&lt;/a>&lt;/p></description></item><item><title>Blog: 기업 고객의 원활한 클라우드 활용 돕는다. SKT, 'TACO' 출시</title><link>/blog/news/20201105-taco/</link><pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate><guid>/blog/news/20201105-taco/</guid><description>
-&lt;img src="/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_640x0_resize_q75_catmullrom.jpeg" width="640" height="447"/>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.ajunews.com/view/20201210114639936">https://www.ajunews.com/view/20201210114639936&lt;/a>&lt;/p></description></item><item><title>Blog: 기업 고객의 원활한 클라우드 활용 돕는다. SKT, 'TACO' 출시</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201105-taco/</link><pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201105-taco/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_640x0_resize_q75_catmullrom.jpeg" width="640" height="447"/>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_900x600_fit_q75_catmullrom.jpeg" width="600" height="419">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201105-taco/featured-taco_hu95a4ca241f7e6dedc80c88816e5cae20_243999_900x600_fit_q75_catmullrom.jpeg" width="600" height="419">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 ⓒ데일리포스트=이미지 제공 / SK텔레콤
@@ -1871,12 +1871,12 @@ queue ! decodebin ! autovideosink
 &lt;p>기업 고객의 원활한 클라우드 활용을 돕기위해 SK텔레콤에서 B2B 전용 플랫폼 ‘TACO’(타코)를 출시한다.&lt;/p>
 &lt;p>TACO(SKT Autonomous Cloud Orchestrator)는 SKT가 자체개발한 클라우드 관리 플랫폼으로, 컨테이너(Container) 기술과 쿠버네티스(Kubernetes) 기술을 적용해 우수한 확장성과 유연성을 보유하고 있다.&lt;/p>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.thedailypost.kr/news/articleView.html?idxno=77236">글로벌 뉴스 미디어 채널 데일리포스트&lt;/a>&lt;/p></description></item><item><title>Blog: SK텔레콤은 '언어신동 AI’에 어떻게 한국어를 가르쳤을까</title><link>/blog/news/20201012-languageai/</link><pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate><guid>/blog/news/20201012-languageai/</guid><description>
-&lt;img src="/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_640x0_resize_q75_catmullrom.jpeg" width="640" height="358"/>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.thedailypost.kr/news/articleView.html?idxno=77236">글로벌 뉴스 미디어 채널 데일리포스트&lt;/a>&lt;/p></description></item><item><title>Blog: SK텔레콤은 '언어신동 AI’에 어떻게 한국어를 가르쳤을까</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201012-languageai/</link><pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201012-languageai/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_640x0_resize_q75_catmullrom.jpeg" width="640" height="358"/>
 &lt;p>SK텔레콤 &amp;lsquo;AI랭귀지테크랩스(ALT Labs)&amp;rsquo; 연구원들은 한국어를 잘 다루는 AI &amp;lsquo;코버트(KoBERT)&amp;lsquo;와 &amp;lsquo;KoGPT2&amp;rsquo;를 잇따라 개발했다.&lt;/p>
 &lt;p>KoBERT의 원형은 구글이 지난 2018년 10월 공개한 버트(BERT)이며, KoGPT2의 원형은 오픈AI가 지난해 공개한 GPT-2다. BERT는 영어 읽기, GPT-2는 영어 쓰기에 특출난 &amp;lsquo;언어 신동&amp;rsquo; AI로 유명세를 얻었다. SK텔레콤은 이들에게 한국어를 열심히 가르친 결과, 내부 업무에 활용해 성과를 얻었고, 지난해 10월 KoBERT를, 올해 2월엔 KoGPT2를 각각 오픈소스로 공개했다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 650px">
-&lt;img class="card-img-top" src="/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_900x600_fit_q75_catmullrom.jpeg" width="640" height="358">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20201012-languageai/featured-kobert_hu54cc96cd14e0d09d4c206cb19da9e56d_37276_900x600_fit_q75_catmullrom.jpeg" width="640" height="358">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 KoBERT와 KoGPT2 개발에 참여한 SK텔레콤 AI랭귀지테크랩스(ALT Labs) 연구원들. (왼쪽위부터 시계방향으로) 전희원 리서치엔지니어, 김진 리서치엔지니어, 데이비스 에릭 하트만 소장, 김태윤 리더. [사진=SK텔레콤 제공]
@@ -1884,13 +1884,13 @@ KoBERT와 KoGPT2 개발에 참여한 SK텔레콤 AI랭귀지테크랩스(ALT Lab
 &lt;/div>
 &lt;/div>
 &lt;hr>
-&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.ajunews.com/view/20201011091342159">https://www.ajunews.com/view/20201011091342159&lt;/a>&lt;/p></description></item><item><title>Blog: 블로그 작성 방법</title><link>/blog/sample/how-to/</link><pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate><guid>/blog/sample/how-to/</guid><description>
+&lt;p>자세한 내용은 기사 원문에서 확인하세요. : &lt;a href="https://www.ajunews.com/view/20201011091342159">https://www.ajunews.com/view/20201011091342159&lt;/a>&lt;/p></description></item><item><title>Blog: 블로그 작성 방법</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/how-to/</link><pubDate>Sun, 30 Aug 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/how-to/</guid><description>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>SK텔레콤 오픈소스 포털의 블로그는 오픈소스에 관한 글을 공유합니다.&lt;/p>
 &lt;p>누구나 글을 작성할 수 있습니다.&lt;/p>
 &lt;p>다음 페이지의 가이드를 참고하시기 바랍니다. : &lt;a href="https://github.com/sktelecom/sktelecom.github.io/blob/master/docs/blog.md">블로그 작성 방법&lt;/a>&lt;/p>
-&lt;/div></description></item><item><title>Blog: 샘플 블로그입니다.</title><link>/blog/sample/sample-post/</link><pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate><guid>/blog/sample/sample-post/</guid><description>
-&lt;img src="/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>
+&lt;/div></description></item><item><title>Blog: 샘플 블로그입니다.</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/sample-post/</link><pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/sample-post/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_catmullrom_3.png" width="640" height="253"/>
 &lt;p>Text can be &lt;strong>bold&lt;/strong>, &lt;em>italic&lt;/em>, or &lt;del>strikethrough&lt;/del>. &lt;a href="https://github.com">Links&lt;/a> should be blue with no underlines (unless hovered over).&lt;/p>
 &lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
 &lt;p>There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.&lt;/p>
@@ -2160,7 +2160,7 @@ This is a warning with a title!
 &lt;/code>&lt;/pre>&lt;h2 id="including-images">Including images&lt;/h2>
 &lt;p>Here&amp;rsquo;s an image (&lt;code>featured-sunset-get.png&lt;/code>) that includes a byline and a caption.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 Fetch and scale an image in the upcoming Hugo 0.43.
@@ -2176,7 +2176,7 @@ byline: &amp;#34;Photo: Riona MacNamara / CC-BY-CA&amp;#34;
 &lt;/code>&lt;/pre>&lt;p>To include the image in a page, specify its details like this:&lt;/p>
 &lt;pre tabindex="0">&lt;code>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
+&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/sample/sample-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_catmullrom_smart1_3.png" width="600" height="300">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 Fetch and scale an image in the upcoming Hugo 0.43.
@@ -2184,8 +2184,8 @@ Fetch and scale an image in the upcoming Hugo 0.43.
 &lt;/div>
 &lt;/div>
 &lt;/code>&lt;/pre>&lt;p>The image will be rendered at the size and byline specified in the front matter.&lt;/p>
-&lt;hr></description></item><item><title>Blog: 소스 코드 내 저작권 표시 방법</title><link>/blog/2020/20200812-copyright-license/</link><pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate><guid>/blog/2020/20200812-copyright-license/</guid><description>
-&lt;img src="/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>
+&lt;hr></description></item><item><title>Blog: 소스 코드 내 저작권 표시 방법</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2020/20200812-copyright-license/</link><pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2020/20200812-copyright-license/</guid><description>
+&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2020/20200812-copyright-license/featured_copyright_hu3c20e8f1f30640c88b46434ba146f1f1_89522_640x0_resize_catmullrom_3.png" width="640" height="299"/>
 &lt;blockquote>
 &lt;p>안녕하세요.&lt;/p>
 &lt;p>오픈소스 분야의 저명한 변호사인 &lt;a href="https://matija.suklje.name/">Matija Šuklje&lt;/a>는 최근 소스 코드 내 저작권 표시가 필요한 이유와 올바르게 작성하는 방법을 &lt;a href="https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code">소개&lt;/a>하였습니다.&lt;/p>
@@ -2371,7 +2371,7 @@ EU에서의 한 예로, 슬로베니아의 ZASP §175. (1)은 독점적 저작�
 &lt;h2 id="all-rights-reserved-표시에는-어떤-문제가-있는가">&amp;ldquo;All rights reserved&amp;rdquo; 표시에는 어떤 문제가 있는가?&lt;/h2>
 &lt;p>종종 저작권 표시에 &amp;ldquo;All rights reserved&amp;quot;라는 문장을 본 적이 있을 거다. 저작권법은 이런 표현을 요구하지 않다. 아마 음악 CD나 책에서 사용하는 걸 보고 단순히 모방해서 사용하는 게 아닐까 생각한다. 하지만, 오픈소스에서 이런 표현은 혼란을 야기시킵니다.&lt;/p>
 &lt;p>&amp;ldquo;All rights reserved&amp;quot;는 명백히 오픈소스 라이선스와 모순된다. 오픈소스 라이선스는 누구나 코드를 사용, 연구, 공유 및 개선할 수 있는 권리를 제공한다. 반면에 &amp;ldquo;All rights reserved&amp;quot;는 이러한 모든 권리가 자신에게만 부여된다는 표현이다.&lt;/p>
-&lt;p>&amp;ldquo;All right reserved&amp;quot;는 이와 같은 문제만 가져올 뿐, 어떤 이점도 가져오지 않기 때문에 오픈소스에서는 사용하지 말아야 한다.&lt;/p></description></item><item><title>Blog: SKT-AWS, 한국어 자연어처리기술 'KoGPT-2' 오픈소스로 공개</title><link>/blog/news/20200428-kogpt2/</link><pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate><guid>/blog/news/20200428-kogpt2/</guid><description>
+&lt;p>&amp;ldquo;All right reserved&amp;quot;는 이와 같은 문제만 가져올 뿐, 어떤 이점도 가져오지 않기 때문에 오픈소스에서는 사용하지 말아야 한다.&lt;/p></description></item><item><title>Blog: SKT-AWS, 한국어 자연어처리기술 'KoGPT-2' 오픈소스로 공개</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20200428-kogpt2/</link><pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/news/20200428-kogpt2/</guid><description>
 &lt;p>SK텔레콤과 AWS는 양사 NLP 지식과 학습 경험을 기반으로 KoGPT-2 모델을 학습시켰다. SK텔레콤이 제공한 한국어 데이터셋과 AWS 서비스를 활용해 한국어 모델을 개발, 학습했다.&lt;/p>
 &lt;p>KoGPT-2는 수정 MIT 라이선스(Modified MIT License) 아래 SKT AIX 센터 깃허브 저장소(&lt;a href="https://github.com/SKT-AI/KoGPT2">https://github.com/SKT-AI/KoGPT2&lt;/a>)에서 이용 가능하다.&lt;/p>
 &lt;hr>

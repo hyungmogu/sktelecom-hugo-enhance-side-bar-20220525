@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 오픈소스 기여 배경 정보</title><link>/en/guide/contribute/background/</link><description>Recent content in 오픈소스 기여 배경 정보 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/en/guide/contribute/background/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 기여의 유형</title><link>/en/guide/contribute/background/type/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/type/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 오픈소스 기여 배경 정보</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/</link><description>Recent content in 오픈소스 기여 배경 정보 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/index.xml" rel="self" type="application/rss+xml"/><item><title>Guide: 오픈소스 기여의 유형</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/type/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/type/</guid><description>
 &lt;div class="alert alert-info" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 이 페이지는 &lt;a href="https://opensource.guide/">GitHub의 Open Source Guide&lt;/a>의 내용을 참고로 작성하였다.
@@ -37,7 +37,7 @@
 &lt;h2 id="이벤트-행사">이벤트 행사&lt;/h2>
 &lt;ul>
 &lt;li>프로젝트의 콘퍼런스, 워크숍, 밋업 등 다양한 모임을 기획하고 주관한다. (예: &lt;a href="https://github.com/nodeschool/organizers/issues/406">fzamperin did for NodeSchool&lt;/a>)&lt;/li>
-&lt;/ul></description></item><item><title>Guide: 오픈소스 프로젝트 멤버십</title><link>/en/guide/contribute/background/membership/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/membership/</guid><description>
+&lt;/ul></description></item><item><title>Guide: 오픈소스 프로젝트 멤버십</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/membership/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/membership/</guid><description>
 &lt;p>오픈소스 프로젝트는 어떻게 공동 작업을 통해 고품질의 소프트웨어 개발을 지속할 수 있을까? 어떻게 서로 모르는 다수의 사람이 코드를 함께 작성하며 안정적인 소프트웨어를 만들어 낼 수 있을까? 오픈소스 프로젝트는 명확한 역할 구분을 통해 이를 가능하게 한다.&lt;/p>
 &lt;p>&lt;img src="./membership.png" alt="membership">&lt;/p>
 &lt;h2 id="리더-leader">리더 (Leader)&lt;/h2>
@@ -57,7 +57,7 @@
 &lt;ul>
 &lt;li>프로젝트의 리더나 기여자들이 사용자의 요청을 신중히 듣지 않게 되면 장기적으로 건강하게 성장하기는 어렵다.&lt;/li>
 &lt;li>프로젝트는 사용자의 필요를 충족시키는 방향으로 성장해야 지속할 수 있다.&lt;/li>
-&lt;/ul></description></item><item><title>Guide: 오픈소스 프로젝트 주요 문서</title><link>/en/guide/contribute/background/document/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/document/</guid><description>
+&lt;/ul></description></item><item><title>Guide: 오픈소스 프로젝트 주요 문서</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/document/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/document/</guid><description>
 &lt;p>올바르게 기여하기 위해서는 각 오픈소스 프로젝트의 동작 방식을 이해하고 프로젝트에서 원하는 대로 활동하는 것이 중요하다. 대부분의 오픈소스 프로젝트는 README, CONTRIBUTING 등의 문서를 통해 이러한 요구 사항을 사용자에게 제공한다. 오픈소스 프로젝트에서는 다음과 같이 몇 가지 공통으로 사용되는 문서가 있으며, 대개 저장소의 최상위 레벨에 위치한다. 기여하기 전에 이러한 문서를 통해 프로젝트의 문화와 행동 강령, 기여 방법을 익혀야 한다.&lt;/p>
 &lt;h2 id="readme">README&lt;/h2>
 &lt;p>README 파일은 프로젝트에 처음 접근했을 때 보이는 파일로써 프로젝트 소개, 왜 이 프로젝트를 사용해야 하는지, 사용 방법 등을 설명하는 문서이다. 어떤 프로젝트인지 파악하기 위해서는 반드시 봐야 할 문서이다.&lt;/p>
@@ -69,7 +69,7 @@
 &lt;h2 id="code-of-conduct">CODE OF CONDUCT&lt;/h2>
 &lt;p>CODE OF CONDUCT는 행동수칙, 행동강령이라고도 불리며 프로젝트가 건강하게 유지되기 위한 참가자의 행동 규칙을 정의한다. 예를 들어 성별, 인종, 종교, 나이 등의 차별이 있어서는 안 되고 누구나 따뜻하게 환영받고, 안전한 활동을 보장하기 위해 행동해야 함을 강조한다. 그리고 누군가 그 규칙을 어길 경우, 신고할 방법을 안내하고 있다.&lt;/p>
 &lt;h2 id="기타-문서">기타 문서&lt;/h2>
-&lt;p>(규모가 큰 오픈소스 프로젝트의 경우) 튜터리얼, 거버넌스 정책과 같은 문서도 제공한다.&lt;/p></description></item><item><title>Guide: 좋은 기여자가 되기 위해</title><link>/en/guide/contribute/background/good-contributor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/good-contributor/</guid><description>
+&lt;p>(규모가 큰 오픈소스 프로젝트의 경우) 튜터리얼, 거버넌스 정책과 같은 문서도 제공한다.&lt;/p></description></item><item><title>Guide: 좋은 기여자가 되기 위해</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/good-contributor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/good-contributor/</guid><description>
 &lt;div class="alert alert-info" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 이 페이지는 &lt;a href="https://opensource.guide/">GitHub의 Open Source Guide&lt;/a>의 내용을 참고로 작성하였다.
@@ -86,7 +86,7 @@
 &lt;h2 id="5-이벤트에-참가하라">5. 이벤트에 참가하라&lt;/h2>
 &lt;p>오픈소스 커뮤니티의 다른 참여자와 지속적인 관계를 구축하는 것은 중요하다. 가장 좋은 방법은 콘퍼런스 등의 이벤트에 참석하는 것이다. 직접 만나는 것만큼 관계 형성에 좋은 것은 없다.&lt;/p>
 &lt;h2 id="6-초기-단계의-코드부터-기여하라">6. 초기 단계의 코드부터 기여하라&lt;/h2>
-&lt;p>어떤 이는 코드의 양이 상당히 커질 때까지 개발을 완료한 다음 이를 한 번에 기여하려고 한다. 이러한 기여는 오픈소스 프로젝트로부터 수락되기가 쉽지 않다. 프로젝트에서 많은 양의 코드를 한꺼번에 리뷰하기도 어렵고, 기여한 코드가 프로젝트가 원하는 방향과 다를 수도 있다. 아이디어 단계에서부터 커뮤니티와 논의하고, 개발 초기부터, 그리고 자주 기여하라.&lt;/p></description></item><item><title>Guide: 기여하기에 좋은 프로젝트 확인 방법</title><link>/en/guide/contribute/background/good-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/good-project/</guid><description>
+&lt;p>어떤 이는 코드의 양이 상당히 커질 때까지 개발을 완료한 다음 이를 한 번에 기여하려고 한다. 이러한 기여는 오픈소스 프로젝트로부터 수락되기가 쉽지 않다. 프로젝트에서 많은 양의 코드를 한꺼번에 리뷰하기도 어렵고, 기여한 코드가 프로젝트가 원하는 방향과 다를 수도 있다. 아이디어 단계에서부터 커뮤니티와 논의하고, 개발 초기부터, 그리고 자주 기여하라.&lt;/p></description></item><item><title>Guide: 기여하기에 좋은 프로젝트 확인 방법</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/good-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/good-project/</guid><description>
 &lt;div class="alert alert-info" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 이 페이지는 &lt;a href="https://opensource.guide/">GitHub의 Open Source Guide&lt;/a>의 내용을 참고로 작성하였다.
@@ -135,7 +135,7 @@
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> Pull Request를 하면 Review가 진행되는가?&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> 메인테이너가 사람들의 기여에 감사 표시를 하는가?&lt;/li>
 &lt;/ul>
-&lt;p>기여를 환영하지 않는 분위기인 프로젝트는 장기적으로 발전하기가 어렵다. 이런 부분도 기여할 만한 가치가 있는 프로젝트인지를 판단하는 기준이 될 수 있다.&lt;/p></description></item><item><title>Guide: 커뮤니케이션 방법</title><link>/en/guide/contribute/background/communication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/en/guide/contribute/background/communication/</guid><description>
+&lt;p>기여를 환영하지 않는 분위기인 프로젝트는 장기적으로 발전하기가 어렵다. 이런 부분도 기여할 만한 가치가 있는 프로젝트인지를 판단하는 기준이 될 수 있다.&lt;/p></description></item><item><title>Guide: 커뮤니케이션 방법</title><link>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/communication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/en/guide/contribute/background/communication/</guid><description>
 &lt;div class="alert alert-info" role="alert">
 &lt;h4 class="alert-heading">Reference&lt;/h4>
 이 페이지는 &lt;a href="https://opensource.guide/">GitHub의 Open Source Guide&lt;/a>의 내용을 참고하였다.
