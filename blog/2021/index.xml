@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 2021</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/</link><description>Recent content in 2021 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211220-saas_compliance/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211220-saas_compliance/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKT Open Source – 2021</title><link>/blog/2021/</link><description>Recent content in 2021 on SKT Open Source</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="/blog/2021/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: SaaS로 서비스를 제공할 때에도 오픈소스 컴플라이언스가 필요한가요?</title><link>/blog/2021/20211220-saas_compliance/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20211220-saas_compliance/</guid><description>
 &lt;p>대부분의 오픈소스 라이선스는 오픈소스를 실행시키는 것에는 아무 제한을 두지 않으며, 오픈소스를 재배포할 때 소스 코드 공개, 고지 등의 의무 준수를 요구합니다. 여기서 배포라고 하면, 소프트웨어를 탑재한 임베디드 디바이스의 판매, 앱 마켓을 통한 모바일 앱의 배포 등 일반적으로 소프트웨어의 물리적인 전달을 의미합니다.&lt;/p>
 &lt;p>SaaS 서비스 제공 업체는 서비스를 위해 소프트웨어를 배포하지 않기 때문에 오픈소스를 사용하더라도 라이선스 의무에서 비교적 자유로울 수 있습니다. 하지만, AGPL 등 네트워크를 통한 서비스 제공 시에도 라이선스 의무를 준수하는 오픈소스 라이선스도 있기 때문에 이에 대해서는 주의가 필요합니다.&lt;/p>
 &lt;p>미국의 저명한 오픈소스 전문 변호사인 Heather Meeker는 &lt;a href="https://heathermeeker.com/2021/11/23/open-source-compliance-for-saas-vendors/">Open Source Compliance for SaaS Vendors&lt;/a>라는 글을 게재하여 SaaS 공급업체가 주의해야 할 Open Source Compliance에 대해 설명하였는데요, 오늘은 이 내용을 소개하겠습니다.&lt;/p>
@@ -105,8 +105,8 @@ The source code for a work means the preferred form of the work for making modif
 &lt;p>과거에는 기업의 오픈소스 컴플라이언스 정책에서 외부로 배포하지 않고 내부 서버에만 사용하는 오픈소스인 경우에는 오픈소스 점검 대상에서 아예 제외시키기도 하였습니다. 하지만, (1) AGPL과 같은 네트워크 Copyleft 조항이 있는 오픈소스 라이선스나 (2) 오픈소스였다가 상용 소프트웨어러 라이선스 정책을 변경하는 추세를 고려하면 Server-side의 소프트웨어에 대해서도 라이선스 컴플라이언스 측면의 관리 체계가 필요해지고 있습니다. 기업은 이를 위한 정책, 절차를 개선하고, Server-side 소프트웨어에 대한 Bill of Materials를 자동으로 생성할 수 있는 도구를 도입해야 할 것입니다.&lt;/p>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This paper was translated by Haksung Jang from the English version available at this &lt;a href="https://heathermeeker.com/2021/11/23/open-source-compliance-for-saas-vendors/">white paper&lt;/a>. The original author, &lt;a href="https://heathermeeker.com/about-me/">Heather Meeker&lt;/a>, has not reviewed this translation.&lt;/p>
-&lt;/div></description></item><item><title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>
+&lt;/div></description></item><item><title>Blog: 중국 첫 GPL 소송 사례, VirtualApp</title><link>/blog/2021/20211115-virtualapp_gpl/</link><pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20211115-virtualapp_gpl/</guid><description>
+&lt;img src="/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_640x0_resize_catmullrom_3.png" width="640" height="330"/>
 &lt;blockquote>
 &lt;p>&lt;i>안녕하세요, 장학성입니다.&lt;/p>
 &lt;p>지난 2021년 9월, 중국내 최초의 GPL 관련 판결이 있었다는 &lt;a href="https://www.oschina.net/news/159435">중국 기사&lt;/a>를 통해 공개되었습니다. 번역기를 활용해 이해한 내용을 정리해보았습니다.&lt;br>
@@ -146,7 +146,7 @@ The source code for a work means the preferred form of the work for making modif
 &lt;h2 id="분쟁-대상-소프트웨어">분쟁 대상 소프트웨어&lt;/h2>
 &lt;h3 id="1-virtualapp-원고-측-소프트웨어">1. VirtualApp (원고 측 소프트웨어)&lt;/h3>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 210px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png" width="200" height="103">
+&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/featured_va_logo_hu3f2b62dbbfb088b725f7604ec6c3a43c_9684_200x0_resize_catmullrom_3.png" width="200" height="103">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -158,7 +158,7 @@ The source code for a work means the preferred form of the work for making modif
 &lt;li>GitHub : &lt;a href="https://github.com/asLody/VirtualApp">https://github.com/asLody/VirtualApp&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png" width="600" height="532">
+&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/virtualapp_hucf2e3ee6baafa9749e90be990a82fea7_639852_600x0_resize_catmullrom_3.png" width="600" height="532">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 http://www.downcc.com/soft/359746.html
@@ -201,7 +201,7 @@ VirtualApp의 코드를 상업적 이익, 내부 사용을 위해 자신의 코�
 &lt;h3 id="2-dim-sum-desktop-피고-측-소프트웨어">2. Dim Sum Desktop (피고 측 소프트웨어)&lt;/h3>
 &lt;p>Dim Sum Desktop은 VirtualApp과 마찬가지로 가상 안드로이드 환경을 제공하는 소프트웨어이며, 피고 Fujian Fengling Chuangjing Technology Co., Ltd.가 개발하였습니다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png" width="600" height="488">
+&lt;img class="card-img-top" src="/blog/2021/20211115-virtualapp_gpl/dimsum_hu6d272197161dca7c802de3f115de61eb_572370_600x0_resize_catmullrom_3.png" width="600" height="488">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 http://www.appchina.com/app/com.dianxinos.dxhome
@@ -332,8 +332,8 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;p>50만 위안은 &lt;a href="https://www.copyright.or.kr/kcc/koreacopyright/info/download.do?brdctsno=44122&amp;amp;brdctsfileno=15650">저작권 침해 법정손해배상액의 최고액 수준&lt;/a>이라고 합니다.&lt;/p>
 &lt;h2 id="마무리">마무리&lt;/h2>
 &lt;p>그동안 중국은 저작권법 위반에 관대하다는 인식이 많았는데, 영문을 기반으로 한 오픈소스 라이선스의 법적 효력을 인정하고, 라이선스 위반을 저작권 침해로 판결한 점이 인상적이었습니다. 기업은 오픈소스 라이선스 의무를 준수하기 위한 정책과 프로세스를 갖추어야 이러한 분쟁에 휘말리는 위험을 최소화 할 수 있을 것입니다.&lt;/p>
-&lt;p>피고는 사건을 대법원에 상고한 것으로 알려졌습니다. 피고가 항소심에서 어떤 주장을 펴나갈지 궁금합니다. :)&lt;/p></description></item><item><title>Blog: GPLv2도 설치정보를 요구한다고?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>
+&lt;p>피고는 사건을 대법원에 상고한 것으로 알려졌습니다. 피고가 항소심에서 어떤 주장을 펴나갈지 궁금합니다. :)&lt;/p></description></item><item><title>Blog: GPLv2도 설치정보를 요구한다고?</title><link>/blog/2021/20210728-gplv2installationinformation/</link><pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210728-gplv2installationinformation/</guid><description>
+&lt;img src="/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_640x0_resize_catmullrom_3.png" width="640" height="318"/>
 &lt;blockquote>
 &lt;p>&lt;i>안녕하세요.&lt;/p>
 &lt;p>미국의 저명한 오픈소스 라이선스 전문 변호사인 P. McCoy Smith는 최근 &lt;a href="https://jolts.world/">JOLTS&lt;/a>&lt;sub>Journal of Open Law, Technology &amp;amp; Society&lt;/sub>에 &lt;a href="https://jolts.world/index.php/jolts/article/view/149">GPLv2가 &amp;lsquo;설치정보&amp;rsquo;를 요구하는가&lt;/a>를 주제로 글을 게재하였습니다.&lt;/p>
@@ -358,7 +358,7 @@ http://www.appchina.com/app/com.dianxinos.dxhome
 &lt;p>그럼에도 불구하고 2005년, FSF는 GPLv2를 출시할 당시 고려하지 못한&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup> 법률적&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> 그리고 기술적&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup> 문제를 해결하기 위해 라이선스 변경의 필요성을 인식하였다. 이에 따라 FSF는 2006년&lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>부터 2007년까지 GPL의 신규 버전을 만들기 위해 대규모의 협업과 다국적 노력을 시작하였으며, 2007년 6월 29일 GPLv3를 공개하였다&lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>.&lt;/p>
 &lt;!-- ![gplv3](./featured_gplv3.png) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png" width="300" height="149">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/featured_gplv3_hu006d62b08de1c17950f31195c01df16f_37653_300x0_resize_catmullrom_3.png" width="300" height="149">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -374,7 +374,7 @@ continued functioning of the modified object code is in no case prevented or int
 solely because modification has been made.”
 &lt;/code>&lt;/pre>&lt;!-- ![installationinformation](./installationinformation.jpg) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg" width="600" height="493">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/installationinformation_huf81259ed580503fa4c4b1153203cb7a9_287695_600x0_resize_q75_catmullrom.jpg" width="600" height="493">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -386,7 +386,7 @@ solely because modification has been made.”
 &lt;p>2006년경 GPL의 새로운 버전인 GPLv3가 제안되었을 무렵, FSF는 &amp;lsquo;software freedom&amp;rsquo; 개념을 잠재적으로 훼손할 수 있는 관행에 대한 우려를 나타냈었다. FSF는 이 관행을 &amp;lsquo;Tivoization&lt;sup id="fnref:14">&lt;a href="#fn:14" class="footnote-ref" role="doc-noteref">14&lt;/a>&lt;/sup>&amp;lsquo;이라고 명명하였으며, 당시 FSF는 DVR&lt;sub>digital video recorder&lt;/sub> 회사인 TiVo가 사용자의 자유를 침해한다고 보았다.&lt;/p>
 &lt;!-- ![tivo](./tivo.jpeg) -->
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 460px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg" width="450" height="392">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/tivo_hueddc2488570257d678625df7b7772d8c_17430_450x0_resize_q75_catmullrom.jpeg" width="450" height="392">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://blog.codinghorror.com/tivoization-and-the-gpl/
@@ -399,7 +399,7 @@ https://blog.codinghorror.com/tivoization-and-the-gpl/
 &lt;p>      &lt;i>“A &lt;b>tyrant&lt;/b> is a malicious device that refuses to allow users to install a different operating system or a modified operating system. These devices have measures to block execution of anything other than the ‘approved’ system versions.”&lt;/i>&lt;sup id="fnref:17">&lt;a href="#fn:17" class="footnote-ref" role="doc-noteref">17&lt;/a>&lt;/sup>&lt;/p>
 &lt;/blockquote>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 310px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg" width="300" height="333">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/rms_huf831f910aefa83e90dd8649124866f37_35249_300x0_resize_q75_catmullrom.jpeg" width="300" height="333">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
@@ -415,7 +415,7 @@ https://fsfe.org/activities/gplv3/brussels-rms-transcript.en.html
 &lt;/blockquote>
 &lt;p>이러한 차이(&amp;lsquo;Tivoization&amp;rsquo;을 금지하는 GPLv3와 허용하는 GPLv2간의 차이)는 Linux Kernel의 저작자인 Linus Torvalds가 GPLv3으로 라이선스를 변경하지 않고 &amp;lsquo;GPLv2 only&amp;rsquo;로 유지하게 된 결정적인 이유였다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 460px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg" width="450" height="338">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/torvalds_hu10fd96dd93c89372fc893c30d5cce225_10792_450x0_resize_q75_catmullrom.jpeg" width="450" height="338">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 https://www.youtube.com/watch?v=bV3cKq26nKQ
@@ -481,7 +481,7 @@ contains, plus any associated interface definition files, plus the scripts used 
 compilation and installation of the executable.”
 &lt;/code>&lt;/pre>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg" width="600" height="422">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/sourcecode_hud661b00a8c430186e9180a8af92b3a08_237586_600x0_resize_q75_catmullrom.jpeg" width="600" height="422">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -508,7 +508,7 @@ a User Product ... the Corresponding Source conveyed under this section must be 
 Installation Information.”
 &lt;/code>&lt;/pre>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg" width="600" height="591">
+&lt;img class="card-img-top" src="/blog/2021/20210728-gplv2installationinformation/userproduct_hu8060ef0c1af02219b726a431e92773ee_374463_600x0_resize_q75_catmullrom.jpeg" width="600" height="591">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;/p>
@@ -705,8 +705,8 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 &lt;p>See above nn. 17 and 22-23.&amp;#160;&lt;a href="#fnref:51" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/</link><pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>
+&lt;/div></description></item><item><title>Blog: Dockerfile 배포 시 컴플라이언스 책임은 누구에게?</title><link>/blog/2021/20210504-dockerfiles/</link><pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210504-dockerfiles/</guid><description>
+&lt;img src="/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_640x0_resize_catmullrom_3.png" width="640" height="368"/>
 &lt;blockquote>
 &lt;p>안녕하세요!&lt;/p>
 &lt;p>2021년 4월, 독일의 유명한 오픈소스 변호사인 Till Jaeger는 Dockerfile이 생성하는 Docker image내 포함될 오픈소스에 대한 라이선스 컴플라이언스 책임은 누구에게 있는가에 대한 글을 &lt;a href="https://jolts.world/index.php/jolts/article/view/147">발표&lt;/a>하였습니다. Till은 독일법과 유럽 연합 사법 재판소&lt;sub>CJEU&lt;/sub>의 판례를 근거로 Dockerfile 제공자가 라이선스 의무를 준수해야 한다고 설명하였습니다.&lt;/p>
@@ -739,7 +739,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 &lt;h3 id="docker-image">Docker image&lt;/h3>
 &lt;p>사전에 구성된 컨테이너는 &amp;ldquo;Docker image&amp;quot;로 배포될 수 있으며, 기본 프로그램 외에 애플리케이션, 프로그램 코드로서의 Dependency, 필요한 경우 유틸리티 및 구성 파일도 포함할 수 있다. Docker image는 개별적으로 배포될 수 있지만 &amp;ldquo;Docker Hub&amp;quot;와 같은 공용 Repository를 통해서도 배포될 수 있다. 이는 C 라이브러리, Package Manager, Shell 및 디렉터리 트리와 같은 필수 시스템 구성 요소를 포함하고 특정 Linux 배포를 참조하는 이른바 &amp;ldquo;Base Image&amp;quot;에도 해당된다. 이 Base image 위에, 추가 기능은 개별 보관 파일로 별도로 배포될 수 있지만 서로 빌드되어 완전한 Docker image를 형성하는 이른바 &amp;ldquo;레이어&amp;quot;로 추가될 수 있다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png" width="768" height="304">
+&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/image-layer_hu9d57ff001bc659885ebe5d88704277f8_22464_768x768_fit_catmullrom_3.png" width="768" height="304">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>레이어 저장방식 : https://cultivo-hy.github.io/docker/image/usage/2019/03/14/Docker정리/&lt;/i>&lt;/center>
@@ -749,7 +749,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 &lt;h3 id="dockerfile">Dockerfile&lt;/h3>
 &lt;p>&amp;ldquo;Dockerfile&amp;quot;은 스크립트와 유사하게 Docker image를 만들기 위한 단계별 명령을 포함하는 텍스트 파일이다. Dockerfile은 일반적으로 Dockerfile 자체에만 적용되는 자체 라이선스를 가질 수 있으며, 이 라이선스는 Docker 컨테이너에 포함되는 프로그램에는 적용되지 않는다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png" width="768" height="441">
+&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/featured-dockerfile-ex_hu144e77f3a0c06d5c2e11835ba0d8ec62_326508_768x768_fit_catmullrom_3.png" width="768" height="441">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>Dockerfile : https://www.slideshare.net/vincenzoferme/using-docker-containers-to-improve-reproducibility-in-software-and-web-engineering&lt;/i>&lt;/center>
@@ -759,7 +759,7 @@ de St. Germain, H. James, ‘Interfaces in Object Oriented Programming Languages
 &lt;h3 id="docker-엔진">Docker 엔진&lt;/h3>
 &lt;p>Docker 컨테이너용 관리 소프트웨어인 &amp;ldquo;Docker 엔진&amp;quot;은 Dockerfile의 명령을 순차적으로 처리하여 Docker image를 생성한다. 일반적으로, Base image나 개별 레이어를 위한 각 컴포넌트는 내부 또는 외부 저장소에서 다운로드된다. 이는 제공자가 Dockerfile을 제공하더라도 물리적인 프로그램 코드를 전달하지 않는 것이 가능함을 의미하고, 이런 일은 실제로 관례적이다. 고객은 전달받은 Dockerfile을 가지고 자체적으로 공개 저장소로부터 전체 혹은 일부 프로그램 코드를 받아와서 Docker 컨테이너를 구축할 수 있다.&lt;/p>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 778px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg" width="768" height="576">
+&lt;img class="card-img-top" src="/blog/2021/20210504-dockerfiles/docker_hufb296f6373118a7f15e41d8376f0e484_183225_768x768_fit_q75_catmullrom.jpg" width="768" height="576">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;center>&lt;i>https://cultivatehq.com/posts/docker/&lt;/i>&lt;/center>
@@ -919,8 +919,8 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;p>The definition in section 1 GPL-3.0 reads as follows: ’The “System Libraries’ of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form. A ‘Major Component’, in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.”&amp;#160;&lt;a href="#fnref:15" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: OSPO란?</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/</link><pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>
+&lt;/div></description></item><item><title>Blog: OSPO란?</title><link>/blog/2021/20210418-ospo-definition/</link><pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210418-ospo-definition/</guid><description>
+&lt;img src="/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_640x0_resize_catmullrom_3.png" width="640" height="320"/>
 &lt;div class="pageinfo pageinfo-primary">
 &lt;p>This paper was translated by Haksung Jang from the English version available at the &lt;a href="https://github.com/todogroup/ospodefinition.org">OSPO Definition&lt;/a>. The original document is licensed under &lt;a href="https://github.com/todogroup/ospodefinition.org/blob/master/LICENSE">CC-BY-SA-4.0&lt;/a>.&lt;/p>
 &lt;/div>
@@ -932,7 +932,7 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;/blockquote>
 &lt;hr>
 &lt;div class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 328px">
-&lt;img class="card-img-top" src="/sktelecom-hugo-enhance-side-bar-20220525/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png" width="318" height="159">
+&lt;img class="card-img-top" src="/blog/2021/20210418-ospo-definition/featured-todogroup_hue4eb93ef039f28113d98d652a131b29e_3378_768x768_fit_catmullrom_3.png" width="318" height="159">
 &lt;div class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 &lt;small class="text-muted">&lt;br/>Photo: TODO Group&lt;/small>&lt;/p>
@@ -1063,8 +1063,8 @@ Software Interactions (a.k.a linking), Available at: &lt;a href="https://www.ifo
 &lt;p>SK텔레콤 OSPO : &lt;a href="https://sktelecom.github.io/about/ospo">https://sktelecom.github.io/about/ospo&lt;/a>&amp;#160;&lt;a href="#fnref:19" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>
+&lt;/div></description></item><item><title>Blog: Elastic License 2.0 그리고 진화하는 오픈소스 라이선스</title><link>/blog/2021/20210328-elasticlicense/</link><pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210328-elasticlicense/</guid><description>
+&lt;img src="/blog/2021/20210328-elasticlicense/featured-scale_hu0adce3c464c6f6e27493d0d0745cd5d4_35813_640x0_resize_catmullrom_3.png" width="640" height="612"/>
 &lt;blockquote>
 &lt;p>안녕하세요.&lt;/p>
 &lt;p>미국의 오픈소스 전문 변호사인 &lt;a href="https://heathermeeker.com/about-me/">Heather Meeker&lt;/a>가 2021년 3월 11일 공개한 Elastic License에 대한 &lt;a href="https://www.coss.community/coss/elastic-license-2-0-and-the-evolution-of-open-source-licensing-3jb3">White Paper&lt;/a>를 기반으로 아래의 글을 작성하였습니다. 대부분 원글을 번역하는 방식이며, 제 의견은 인용구로 추가하였습니다.&lt;/p>
@@ -1209,8 +1209,8 @@ It describes a software model where software:
 &lt;p>Open source licenses can contain conditions, such as notices or source code sharing. But these are not limitations that tell you what you cannot do with software, they only require that if you elect to do certain things, you also must do others.&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Blog: The 2nd Page of H8l</title><link>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/</guid><description>
-&lt;img src="/sktelecom-hugo-enhance-side-bar-20220525/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>
+&lt;/div></description></item><item><title>Blog: The 2nd Page of H8l</title><link>/blog/2021/20210209-2nd-page-of-h8l/</link><pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate><guid>/blog/2021/20210209-2nd-page-of-h8l/</guid><description>
+&lt;img src="/blog/2021/20210209-2nd-page-of-h8l/featured-diagram_hu0ebf613d48f3584022125dc29e10620b_117033_640x0_resize_catmullrom_3.png" width="640" height="426"/>
 &lt;h1 id="the-2nd-page-of-hwangsaeul-project">The 2nd page of Hwangsaeul project&lt;/h1>
 &lt;p>It&amp;rsquo;s been almost a year and half since Jakub posted the &lt;a href="https://www.collabora.com/news-and-blog/news-and-events/low-latency-streaming-of-security-feeds-with-srt-and-gstreamer.html">installation document&lt;/a> of Hwangsaeul (a.k.a H8L) project. The project members are still rush to develop the project for the various use cases. Although the H8L project is originally designed to support the massive deployment of video surveillance cameras which enable SRT transmission, we found that there is much more potential when we switch the domain to UAV(Unmanned Areial Viehicle) and UGV(Unmanned Ground Vehicle). Therefore, we had to change the overall shape of H8L to optimize for the new targets.&lt;/p>
 &lt;h2 id="deprecation-of-messages-queue">Deprecation of Messages Queue&lt;/h2>
